@@ -1,0 +1,23 @@
+name: tognela.net
+favicon: null
+layout_spectrum: 0.703713046386838
+typography_spectrum: 0.42187588079832494
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6830855277366936
+  lightness: 0.23708894266746938
+  saturation: 0.13724435190670192
+  rhythmicContrast: 0.807876389240846
+purpose: []
